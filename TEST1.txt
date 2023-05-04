@@ -1,0 +1,11 @@
+PS C:\Users\mz-ab\OneDrive\Desktop\Python> & C:/Users/mz-ab/AppData/Local/Programs/Python/Python311/python.exe c:/Users/mz-ab/OneDrive/Desktop/Python/Assignment1.py
+Welcome to the Global Energy bill calculator!
+Please enter your account number: 123456
+Enter the month number (e.g., for January, enter 1): 2
+Enter your electricity plan (EFIR or EFLR): EFIR
+Please enter the amount of electricity you used in month 2 (in kWh): 500
+Enter your Gas plan (GFIR or GFLR): GFIR
+Please enter the amount of gas you used in month 2 (in GJ): 700
+Enter the abbreviation for your province of residence (two letters): AB
+Thank you! Your total amount due now is : $ 205.44300000000004
+PS C:\Users\mz-ab\OneDrive\Desktop\Python>
